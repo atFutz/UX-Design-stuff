@@ -5,7 +5,6 @@
 I designed this prototype to help customers order pizza through a kiosk at Amazon Fresh.
 
 <br/>
-<br/>
 ### My Old Google Search Inspired [Resume](https://github.com/atFutz/UX-Design-stuff/blob/main/googleResume.pdf) 
 
 
