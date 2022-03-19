@@ -1,4 +1,4 @@
-## UX/ Design
+## UX/Design
 
 
 ###  [My Figma Project] (https://www.figma.com/file/FsAvhbHhnSQAxIXqsjLuw2/Kiosk-sample?node-id=0%3A1) 
