@@ -4,6 +4,6 @@
 ### [My Figma Project](https://www.figma.com/file/FsAvhbHhnSQAxIXqsjLuw2/Kiosk-sample?node-id=0%3A1) 
 I designed this prototype to help customers order pizza through a kiosk at Amazon Fresh.
 
-### My old Google Search inspired resume
+### My Old Google Search Inspired [Resume](https://github.com/atFutz/UX-Design-stuff/blob/main/googleResume.pdf) 
 
-[Resume](https://github.com/atFutz/UX-Design-stuff/blob/main/googleResume.pdf) 
+
